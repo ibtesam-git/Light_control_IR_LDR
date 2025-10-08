@@ -1,0 +1,30 @@
+# Ignore build output
+build/
+
+# Ignore CMake and build cache files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+
+# Ignore compiled object files and binaries
+*.o
+*.elf
+*.bin
+*.map
+
+# Ignore generated flash images
+*.img
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore Python virtual environments (if any)
+venv/
+.env/
+
+# Ignore temporary files
+*.log
+*.swp
+*.DS_Store
