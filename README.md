@@ -1,4 +1,4 @@
-#Project Description – LDR & IR Controlled LED System (ESP-IDF v5.4.1, ESP32-S3)
+# Project Description – LDR & IR Controlled LED System (ESP-IDF v5.4.1, ESP32-S3)
 
 This project implements a simple light control system on the ESP32-S3 using ESP-IDF v5.4.1, combining input from an LDR (Light Dependent Resistor) and an IR (Infrared) sensor to control an LED.
 
